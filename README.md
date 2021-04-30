@@ -16,7 +16,7 @@
 Також пам'ятайте, що ніхто не заважає вам редагувати файл README у вашому репозиторії😉.
 А ще - дуже раджу спробувати нову фічу - інтеграцію з IDE REPL.it (хоч з таким завданням вона може й не впоратись, однак, цікаво ж!).
 ## на три 
-<img src="https://github.com/ppc-ntu-khpi/34-inheritance-Rifleborn/blob/master/images/three.png" width="100%"/> 
+<img src="https://github.com/ppc-ntu-khpi/34-inheritance-Rifleborn/blob/master/images/three.png" width="100%"/>
 ## на чотири 
 <img src="https://github.com/ppc-ntu-khpi/34-inheritance-Rifleborn/blob/master/images/output1.png"/> 
 <img src="https://github.com/ppc-ntu-khpi/34-inheritance-Rifleborn/blob/master/images/output2.png"/> 

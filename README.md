@@ -16,6 +16,6 @@
 Також пам'ятайте, що ніхто не заважає вам редагувати файл README у вашому репозиторії😉.
 А ще - дуже раджу спробувати нову фічу - інтеграцію з IDE REPL.it (хоч з таким завданням вона може й не впоратись, однак, цікаво ж!).
 
-![](https://img.shields.io/badge/Made%20with-JAVA-red.svg)
-![](https://img.shields.io/badge/Made%20with-%20Netbeans-brightgreen.svg)
-![](https://img.shields.io/badge/Made%20at-PPC%20NTU%20%22KhPI%22-blue.svg) 
+<img src="https://github.com/ppc-ntu-khpi/34-inheritance-Rifleborn/blob/master/images/psy_dog.png" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/34-inheritance-Rifleborn/blob/master/images/UML.png" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/34-inheritance-Rifleborn/blob/master/images/test.png" width="100%"/>

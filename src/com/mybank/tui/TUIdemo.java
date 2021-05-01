@@ -125,7 +125,7 @@ public class TUIdemo extends TApplication {
 
         // читання файлу
         try {
-            DataSource dataSrc = new DataSource("C:\\Users\\User\\Desktop\\OOP-JAVA\\src\\com\\mybank\\data\\test.dat");
+            DataSource dataSrc = new DataSource("C:\\Users\\User\\Desktop\\OOP-JAVA_final\\src\\com\\mybank\\data\\test.dat");
             dataSrc.loadData();
         } catch (IOException e) {
             System.out.println("File not found");

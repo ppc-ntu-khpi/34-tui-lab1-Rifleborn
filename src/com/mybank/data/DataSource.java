@@ -45,8 +45,8 @@ public class DataSource {
                 switch (accountType) {
 // Savings account
                     case 'S': {
-                        float initBalance = input.nextFloat();
-                        float interestRate = input.nextFloat();
+                        float initBalance = Float.parseFloat(input.next());
+                        float interestRate = Float.parseFloat(input.next());
                         customer.addAccount(new SavingsAccount(initBalance,
                                 interestRate));
 
@@ -54,8 +54,8 @@ public class DataSource {
                     }
 // Checking account
                     case 'C': {
-                        float initBalance = input.nextFloat();
-                        float overdraftProtection = input.nextFloat();
+                        float initBalance = Float.parseFloat(input.next());
+                        float overdraftProtection = Float.parseFloat(input.next());
                         customer.addAccount(new CheckingAccount(initBalance,
                                 overdraftProtection));
 

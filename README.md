@@ -1,5 +1,5 @@
 # OOP-JAVA 
-**НА ТРИ** 
+**НА ТРИ**  
 <img src="https://github.com/ppc-ntu-khpi/34-tui-lab1-Rifleborn/blob/master/images/three.png"/>  
 **НА ЧОТИРИ**  
 <img src="https://github.com/ppc-ntu-khpi/34-tui-lab1-Rifleborn/blob/master/images/output1.png"/> 
